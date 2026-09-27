@@ -1,5 +1,4 @@
 
-<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 ## 👋 About Me
 
 I'm **Junxiang Lei (雷钧翔)**, an undergraduate at **[Fudan University](https://www.fudan.edu.cn/)** (class of 2023). In 2027 I'll join the **[FudanDISC Lab](https://github.com/FudanDISC)** at the [School of Data Science](https://sds.fudan.edu.cn/) as an M.S. student in Applied Statistics.
