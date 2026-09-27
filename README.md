@@ -25,7 +25,7 @@
 <!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 ## 👋 About Me
 
-I'm **Junxiang Lei (雷钧翔)**, an undergraduate at **[Fudan University](https://www.fudan.edu.cn/)** (class of 2023).
+I'm **Junxiang Lei (雷钧翔)**, an undergraduate at **[Fudan University](https://www.fudan.edu.cn/)** (class of 2023). In 2027 I'll join the **[FudanDISC Lab](https://github.com/FudanDISC)** at the [School of Data Science](https://sds.fudan.edu.cn/) as an M.S. student in Applied Statistics.
 I'm interested in AI systems that can **perceive, create, and act**: unified models that both understand and generate across modalities, LLM agents that read papers, write code and reproduce results on their own, and populations of such agents used to **simulate human societies**.
 
 - 🔭 Currently building **self-evolving multi-agent systems** for autonomous, around-the-clock research ([Argus](https://github.com/lbx154/Argus))
@@ -44,32 +44,15 @@ I'm interested in AI systems that can **perceive, create, and act**: unified mod
 <!-- ═══════════════════════════════ EDUCATION ═══════════════════════════════ -->
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td width="80%"><b>Fudan University</b>, Shanghai, China<br><sub>Undergraduate Student</sub></td>
-    <td width="20%" align="right"><code>2023.09 – Present</code></td>
-  </tr>
-</table>
+- **2027 – 2030** &nbsp; M.S. in Applied Statistics, [School of Data Science](https://sds.fudan.edu.cn/), Fudan University · [FudanDISC Lab](https://github.com/FudanDISC) *(expected)*
+- **2023 – 2027** &nbsp; Undergraduate, Fudan University, Shanghai, China
 
 <!-- ═══════════════════════════════ RESEARCH ═══════════════════════════════ -->
 ## 🔬 Research Interests
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧩 Unified Multimodal Models</h4>
-      <sub>Single architectures that jointly <b>understand and generate</b> images and video, whether generation actually helps understanding, and rigorous LMM evaluation.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 LLM Agents</h4>
-      <sub>Agents that <b>do research autonomously</b>: reading papers, reproducing experiments, writing code, and improving themselves across long horizons.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌐 Social Simulation</h4>
-      <sub>LLM-driven <b>multi-agent societies</b> that model human behavior, cognitive biases, and emergent collective dynamics for computational social science.</sub>
-    </td>
-  </tr>
-</table>
+- **🧩 Unified Multimodal Models** &nbsp; Single architectures that jointly understand and generate images and video, whether generation actually helps understanding, and rigorous LMM evaluation
+- **🤖 LLM Agents** &nbsp; Agents that do research autonomously: reading papers, reproducing experiments, writing code, and improving themselves across long horizons
+- **🌐 Social Simulation** &nbsp; LLM-driven multi-agent societies that model human behavior, cognitive biases, and emergent collective dynamics for computational social science
 
 <!-- ═══════════════════════════════ PUBLICATIONS ═══════════════════════════════
 Uncomment this section once you have papers. Bold your own name; use venue badges.
@@ -87,27 +70,8 @@ Uncomment this section once you have papers. Bold your own name; use venue badge
 <!-- ═══════════════════════════════ CONTRIBUTIONS ═══════════════════════════════ -->
 ## 🌟 Open-Source Contributions
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/lbx154/Argus">🦉 Argus</a></h4>
-      <sub>A self-evolving multi-agent system for autonomous research that runs 24/7 to explore, learn, and improve.</sub><br><br>
-      <img src="https://img.shields.io/badge/Multi--Agent-1E3A8A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Autonomous%20Research-0E7490?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/nssmd/UniG2U">🧪 UniG2U</a></h4>
-      <sub>An evaluation suite for unified multimodal models built on <code>lmms-eval</code>, adding new benchmarks, model integrations, and Visual-CoT pipelines.</sub><br><br>
-      <img src="https://img.shields.io/badge/Multimodal-1E3A8A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Benchmark-0E7490?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-
-欢迎交流合作！
-
-</details>
+- **[Argus](https://github.com/lbx154/Argus)** &nbsp; A self-evolving multi-agent system for autonomous research that runs 24/7 to explore, learn, and improve
+- **[UniG2U](https://github.com/nssmd/UniG2U)** &nbsp; An evaluation suite for unified multimodal models built on `lmms-eval`, adding new benchmarks, model integrations, and Visual-CoT pipelines
 
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <p align="center">
